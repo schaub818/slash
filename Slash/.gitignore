@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Starter content
 Content/StarterContent/*
+
+# Megascans
+Content/Megascans/*
+Content/MSPresets/*
